@@ -1,0 +1,26 @@
+lead_id,name,age,country,interest,status
+word_20250430_194051_4408,umer,25.0,Pakistan,Digital Marketing,secured
+word_20250430_194357_4408,shayan,,,,secured
+word_20250430_194607_4408,kazi,,,,no response
+word_20250430_195629_4408,suman,84.0,Pakistan,ml,secured
+word_20250430_195916_66753,Lisa,54.0,USA,Service Y,secured
+word_20250430_195918_54549,Michael,43.0,United Kingdom,Service X,secured
+word_20250430_195920_16250,John,22.0,Germany,Service Y,secured
+word_20250430_200131_82950,Sarah,29.0,USA,Product B,secured
+word_20250430_200133_57535,David,31.0,Germany,Service Y,secured
+test_20250430_200254,Test User,25.0,USA,Product A,secured
+test_20250430_200338,Test User,25.0,USA,Product A,secured
+test_early_20250430_200341,Test User,,,,no response
+test_multi_0_20250430_200344,User 0,25.0,USA,Product A,secured
+test_multi_1_20250430_200345,User 1,25.0,USA,Product A,secured
+test_multi_2_20250430_200346,User 2,25.0,USA,Product A,secured
+test_20250430_200532,Test User,25.0,USA,Product A,secured
+test_20250430_200609,Test User,25.0,USA,Product A,secured
+test_early_20250430_200617,Test User,,,,no response
+test_multi_0_20250430_200628,User 0,25.0,USA,Product A,secured
+test_multi_1_20250430_200630,User 1,25.0,USA,Product A,secured
+test_multi_2_20250430_200634,User 2,25.0,USA,Product A,secured
+word_20250430_211127_27112,Ahmed,34.0,Iran,Machine learning,secured
+word_20250430_211227_26048,hira,,,,no response
+word_20250430_211512_13760,kumar,24.0,Pakistan,ml,secured
+word_20250430_211505_20168,suman,,,,no response
